@@ -16,4 +16,4 @@ twitter_username:     example  # Replace this with your Twitter username
 github_username:      example  # Replace this with your GitHub username
 
 # Build settings
-markdown: kramdown
+markdown: GFM
