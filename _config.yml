@@ -6,7 +6,7 @@ email: ml9723@hotmail.com # Your contant email
 description: > # this means to ignore newlines until "baseurl:"
   Integrity is the essence of everything successful.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://marlee.xyz" # the base hostname & protocol for your site
+url: "http://marclee.xyz" # the base hostname & protocol for your site
 
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
