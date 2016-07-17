@@ -15,4 +15,4 @@ url: "http://marclee.xyz" # the base hostname & protocol for your site
 github_username:      example  # Replace this with your GitHub username
 
 # Build settings
-markdown: GFM
+markdown: kramdown
